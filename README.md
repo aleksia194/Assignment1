@@ -1,7 +1,8 @@
 #Задача №1
 
-#Бабиков Александр Дмитриевич
+Бабиков Александр Дмитриевич
 
-#st135743@student.spbu.ru
-#aleks.mojno.sana@gmail.com
+st135743@student.spbu.ru
+
+aleks.mojno.sana@gmail.com
 
