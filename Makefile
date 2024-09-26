@@ -1,3 +1,9 @@
+/* 
+Babikov Aleksandr st135743@student.spbu.ru
+#Task №1
+*/
+
+
 CXX = g++
 CXXFLAGS = -Wall
 TARGET = hello
