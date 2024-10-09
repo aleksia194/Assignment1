@@ -4,11 +4,11 @@ Babikov Aleksandr st135743@student.spbu.ru
 */
 
 #include <iostream>
-#include <string>
+#include <string> 
 #include "head.h"
 
 int main() {
-  std::cout << "Hello!" << std::endl;
-  hello();
+    std::cout << "Hello!" << std::endl;
+    hello();
 }
 
